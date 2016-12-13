@@ -8,7 +8,6 @@ fi = 0;
 N = 50;
 x = fc( t,f0,fi,A,T );
 
-%Complex
 
 C = zeros(1,2*N+1);
 
